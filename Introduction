@@ -1,0 +1,5 @@
+Its a ball and brick game made using C Programming langugage. In this game the ball consinuously moves with a constant speed inside a frame which has the series of bricks at the top and the 
+sticker just above the bottom of the frame whose move right or left inside the frame itself.
+The user has control over the sticker only and using that stricker the user has to prevent the ball to touch the bottom of the frame and bounce it back toward the bricks
+as soon as the ball touches the bricks, the particular brick get removed from its position.
+This game continues untill the last bricks get removed or else the ball unfortunately touches the bottom of the frame then GAME OVER!!
